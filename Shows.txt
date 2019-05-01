@@ -1,0 +1,20 @@
+//Put a slash before a line to comment it out. Syntax is:
+//string myName, int myDay, int myDifficulty, int myTemperature, string bossName, string bossSpecies, string bossSound, int bossSkill, int myPrize
+
+Greatness From Small Beginnings,5,1,75,Julian,Lemur,Yeee,3,100
+
+Hoedown Throwdown,12,2,50,Scar,Lion,Grrr,4,120
+
+CU Animal Show,20,3,70,Ralphie,Buffalo,F*ck CSU,5,150
+
+The Cold One,30,3,20,Dean,T-Rex,Rawr,6,150
+
+Pimp My Poodle,38,4,40,Poople,Poodle,Yip,7,180
+
+The Hot One,45,5,80,Perry,Platypus,...,7,200
+
+Funky Town,52,6,45,Clifford,Dog,WOOF,7,220 
+
+Flavor Town,60,7,40,Fieri,Hawk,Scree,8,200
+
+Animal Farm,70,5,75,Snowball,Horse,Neigh,8,220

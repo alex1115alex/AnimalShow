@@ -1,0 +1,2 @@
+Alex,Human,Hey!,6,10,10,0,0,94,false,0
+Shaggy,Dog,Woof!,6,10,10,0,0,94,false,0
